@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Abdan Zaki Alifian
+- 👀 I’m interested in Android Developer
+- 🌱 I’m currently learning Kotlin and Flutter
+- 💞️ I’m looking to collaborate on @abdanzaki99@gmail.com
